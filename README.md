@@ -1,6 +1,13 @@
 # MMM-Hackerstats
 MagicMirror Module to display hacker profiles from HacktheBox and TryHackMe
 
+# Installation
+* git clone https://github.com/mykle1/MMM-Hackerstats into the ~/MagicMirror/modules directory.
+* cd MMM-Hackerstats
+* npm install
+
+
+# Add to config file
 
     {
         module: "MMM-Hackerstats",
